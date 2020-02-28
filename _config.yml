@@ -26,4 +26,7 @@ exclude:
     - package.json
 
 plugins:
-  - jekyll-feed
+    - jekyll-paginate-v2
+    - jekyll-redirect-from
+    - jekyll-autoprefixer
+    - jekyll-feed
