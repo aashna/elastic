@@ -1,3 +1,4 @@
 ---
-redirect_to: "index.html"
+title: PyTorch | Redirect
+redirect_url: "/index.html"
 ---
