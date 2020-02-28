@@ -1,5 +1,5 @@
 ---
 layout: docs_redirect
 title: PyTorch | Redirect
-redirect_url: "/0.1.0rc1/usage.html"
+redirect_url: "/0.1.0rc2/usage.html"
 ---
