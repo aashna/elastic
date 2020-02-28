@@ -1,5 +1,5 @@
 ---
 layout: docs_redirect
-title: PyTorch | Redirect
+title: PyTorch Elastic | Redirect
 redirect_url: "/index.html"
 ---
